@@ -7,3 +7,4 @@ comando git push
 de novo
 teste pull
 teste fetch - antes do pull 
+teste push 2 
