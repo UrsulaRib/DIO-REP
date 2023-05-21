@@ -5,3 +5,4 @@ teste 2
 #teste novo ...
 comando git push
 de novo
+teste pull
