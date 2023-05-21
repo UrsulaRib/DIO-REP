@@ -8,3 +8,4 @@ de novo
 teste pull
 teste fetch - antes do pull 
 teste push 2 
+uma coisa 
